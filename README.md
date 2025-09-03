@@ -24,7 +24,7 @@
 
 | Home Page | Menu Page | Cart Page |
 | :--: | :--: | :--: |
-| ![Home](screenshots/home.png) | ![Menu](screenshots/menu.png) | ![Cart](screenshots/cart.png) |
+| ![Home](screenshots/home.png) | ![Menu](screenshots/menu.png) | ![Contact](screenshots/contact.png) |
 
 ---
 
@@ -48,7 +48,7 @@ It is designed with a clean UI, smooth navigation, and mobile-first responsivene
 
 ## 🔗 Demo  
 
-> Live Preview: [🍔 Food Delivery App Demo](https://your-live-demo-link.vercel.app/)  
+> Live Preview: [🍔 Food Delivery App Demo](https://food-delivery-app-two-pi.vercel.app/)  
 
 ---
 
