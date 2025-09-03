@@ -89,7 +89,6 @@ npm start
 
 **Surya Pratap Singh**  <br/>
 🔗 Connect with me:  <br/>
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) <br/> 
+- [LinkedIn](https://www.linkedin.com/in/surya-pratap-singh1) <br/> 
 - [GitHub](https://github.com/Surya821)  <br/>
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-gfg-profile)  <br/>
-- [Portfolio Website](https://your-portfolio-link.com)  <br/>
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/surya_pratap/)  <br/>
