@@ -48,7 +48,7 @@ It is designed with a clean UI, smooth navigation, and mobile-first responsivene
 
 ## 🔗 Demo  
 
-> Live Preview: [🍔 Food Delivery App Demo](https://food-delivery-app-two-pi.vercel.app/)  
+> Live Preview: <a href="https://food-delivery-app-two-pi.vercel.app/" target="_blank">🍔 Food Delivery App Demo</a>  
 
 ---
 
