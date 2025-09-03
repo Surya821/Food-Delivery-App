@@ -34,8 +34,8 @@
 - [Demo](#-demo)
 - [Getting Started](#-getting-started)
   - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
-  - [Usage](#-usage)
+  - [Installation](#-Installation)
+  - [Usage](#-Usage)
 
 ---
 
